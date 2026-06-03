@@ -1,0 +1,19 @@
+# Conformal-Finance
+
+> Conformal-Finance is a research framework for coverage-valid uncertainty on numeric answers produced by language models. When a model emits a number, it wraps that output with a prediction interval whose coverage guarantee holds without distributional assumptions on the data or the model. The motivation is measurable, auditable uncertainty for numeric question answering — the kind of control the EU AI Act (Article 15) expects of high-risk systems, with obligations phasing in from 2026. Status: research preview; a technical paper preprint is in preparation.
+
+## What it explores
+
+- Distribution-free prediction intervals (conformal prediction) around a model's numeric output
+- Coverage validity that can be measured and audited, rather than a single point estimate
+- Application to numeric financial question answering as the study domain
+
+## Status
+
+- Research preview — no installable package yet
+- A preprint and reference code are in preparation; a link will be added to the repository on release
+- To follow releases: watch the repository or open an issue
+
+## Links
+
+- Repository: https://github.com/Whatsonyourmind/conformal-finance
