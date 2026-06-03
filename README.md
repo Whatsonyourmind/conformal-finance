@@ -14,11 +14,8 @@ Research preview. A technical paper preprint is in preparation; a link will be a
 
 ## Stay in the loop
 
-To be notified when the preprint and code are released:
-
-- [**Join the waitlist**](mailto:luka.stanisljevic@gmail.com?subject=Conformal-Finance%20waitlist) — subject `Conformal-Finance waitlist`.
+To be notified when the preprint and code are released, **watch this repository** (the Watch button above) or open an issue.
 
 ## Contact
 
 Built by an independent researcher.
-ORCID: [0009-0005-9694-4608](https://orcid.org/0009-0005-9694-4608)
